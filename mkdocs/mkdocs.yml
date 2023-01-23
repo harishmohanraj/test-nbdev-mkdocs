@@ -100,4 +100,4 @@ extra_javascript:
 - https://polyfill.io/v3/polyfill.min.js?features=es6
 - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
 extra:
-  social_image: https://opengraph.githubassets.com/1674486458.549356/harishmohanraj/test-nbdev-mkdocs
+  social_image: overrides/images/social_image.png
